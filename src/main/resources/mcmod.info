@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "blockyrewards",
+    "name": "Blocky Rewards",
+    "description": "Blocky Rewards is a customizable mod, which grands the user a % chance of something to happen while mining blocks",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://minecraft.curseforge.com/projects/blocky-rewards",
+    "updateUrl": "https://minecraft.curseforge.com/projects/blocky-rewards/files",
+    "authorList": [
+      "sokratis12GR"
+    ],
+    "credits": "",
+    "logoFile": "https://sokratis12gr.com/uploads/blockyrewards_logo.png",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": [
+      "minecraftforge"
+    ]
+  }
+]
